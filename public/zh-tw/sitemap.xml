@@ -34,13 +34,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,13 +88,13 @@
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/categories/test/"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/test/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -5,6 +5,11 @@
     <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/categories/"
                 />
@@ -12,11 +17,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://localhost:1313/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -54,13 +54,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="http://localhost:1313/zh-tw/tags/"
+                hreflang="ja"
+                href="http://localhost:1313/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
