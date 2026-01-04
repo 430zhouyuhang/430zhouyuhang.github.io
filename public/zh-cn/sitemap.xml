@@ -88,13 +88,13 @@
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/test/"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="http://localhost:1313/zh-tw/categories/test/"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -34,13 +34,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,8 +1,8 @@
 baseurl: https://430zhouyuhang.github.io/
-languageCode: en-us
+languageCode: zh-cn
 theme: hugo-theme-stack
-title: Example Site
-copyright: Example Person
+title: 周宇航的博客
+copyright: 周宇航
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
